@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "891869150459",
+    "project_id": "smart-bpack",
+    "storage_bucket": "smart-bpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891869150459:android:20861e623db92137ce845e",
+        "android_client_info": {
+          "package_name": "com.example.smbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891869150459-in6pmbstus7e5cv7c5d76cjp4qrb39ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIjnI99fhRi6xUZm-1gGKU7UAHcU3QmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891869150459-in6pmbstus7e5cv7c5d76cjp4qrb39ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891869150459:android:b753fa3f0a72cc87ce845e",
+        "android_client_info": {
+          "package_name": "com.fyp.smb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891869150459-in6pmbstus7e5cv7c5d76cjp4qrb39ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIjnI99fhRi6xUZm-1gGKU7UAHcU3QmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891869150459-in6pmbstus7e5cv7c5d76cjp4qrb39ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
